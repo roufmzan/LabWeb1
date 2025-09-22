@@ -20,7 +20,7 @@ Tujuan utama dari latihan ini adalah memahami penggunaan tag-tag HTML dasar untu
 
 ---
 
-## 📖 Deskripsi
+## Deskripsi
 Halaman web ini menampilkan beberapa elemen dasar HTML, di antaranya:
 - **Heading** (`<h1>`, `<h2>`, dll.)
 - **Paragraf** (`<p>`)
@@ -28,8 +28,14 @@ Halaman web ini menampilkan beberapa elemen dasar HTML, di antaranya:
 - **Gambar** (`<img>`)
 - **Hyperlink** (`<a>`)
 
-
-## 📂 Struktur File
+- Body tag Merupakan tempat untuk menaruh semua element HTML yang akan di tampilkan dilayar
+    body tag biasanya ditandai dengan `<body></body>`
+    - `<p></p>` merupakan sebuah tag html yang berfungsi untuk menampilkan sebuah kata pada sebuah
+    - `<h1></h1>` merupakan sebuah judul dari halaman
+    - `<h2></h2>` merupakan sebuah subjudul dari halaman
+    - `<nav></nav>`merupakan sebuah navigasi dari halaman dan bagian dari semantic HTML
+    - `<a href=""></a>` merupakan sebuah tag untuk menautkan atau memberi link pada Halaman Website dimana tujuan dari link tersebut ditentukan sesuai arah dari attribute `href`
+## Struktur File
 
 **Penjelasan Code**
 ```python
