@@ -1,6 +1,11 @@
-**Nama : ROUF MUHAMMAD FAUZAN**
-**NIM : 312410157**
-**Kelas : TI.24.A1**
+# Praktikum 1 : HTML Dasar
+
+|                |                    |
+| -------------- | ------------------ |
+|      _Nama_    | ROUF MUHAMMAD FAUZAN |
+|      _NIM_     |      312410157     |
+|     _Kelas_    |      TI.24.A1      |
+|  _Mata Kuliah_ | Bahasa Pemrograman Web 1 |
 
 **Hasil Output**
 
