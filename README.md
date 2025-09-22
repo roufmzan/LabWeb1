@@ -38,7 +38,7 @@ Berikut contoh tampilan halaman web:
 ## 📂 Struktur File
 
 **Penjelasan Code**
-```
+```python
 <!DOCTYPE html>
 <html>
 <head>
@@ -84,4 +84,4 @@ Berikut contoh tampilan halaman web:
 
 </body>
 </html>
-```
+```python
