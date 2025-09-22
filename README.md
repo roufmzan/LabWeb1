@@ -7,6 +7,8 @@
 |     _Kelas_    |      TI.24.A1      |
 |  _Mata Kuliah_ | Bahasa Pemrograman Web 1 |
 
+HTML merupakan singkatan dari Hyper Text Markup Language yang mana merupakan bahasa markup untuk sebuah website
+
 **Hasil Output**
 
 <img width="959" height="539" alt="image" src="output.jpg" />
@@ -26,14 +28,6 @@ Halaman web ini menampilkan beberapa elemen dasar HTML, di antaranya:
 - **Gambar** (`<img>`)
 - **Hyperlink** (`<a>`)
 
----
-
-## 🖼️ Tampilan
-Berikut contoh tampilan halaman web:
-
-![Tampilan HTML Dasar](./output.jpg)
-
----
 
 ## 📂 Struktur File
 
