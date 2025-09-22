@@ -31,7 +31,7 @@ Halaman web ini menampilkan beberapa elemen dasar HTML, di antaranya:
 ## 🖼️ Tampilan
 Berikut contoh tampilan halaman web:
 
-![Tampilan HTML Dasar](./screenshot.png)
+![Tampilan HTML Dasar](./output.jpg)
 
 ---
 
